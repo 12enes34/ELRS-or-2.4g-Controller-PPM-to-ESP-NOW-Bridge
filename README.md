@@ -56,6 +56,6 @@ Standart bir RC Kumandadan (Jumper, Radiomaster vb.) Trainer/AUX portu üzerinde
 2. ESP32-S3 verici kodundaki MAC dizisini bu adres ile güncelleyip yükleyin.
 3. Alıcı ekranında "ESP32 bekleniyor.." yazısını gördüğünüzde ESP32 vericisine güç verin[cite: 42].
 4. Kumanda kollarını hareket ettirerek OLED ekrandaki barların tepkisini izleyin. [cite_start]D3 butonuna basarak Sistem Sağlığı ve Ham Veri modlarına geçiş yapın[cite: 43].
-
+![image](https://github.com/12enes34/ELRS-or-2.4g-Controller-PPM-to-ESP-NOW-Bridge/blob/main/images_All.jpeg)
 ### 📄 License
 This project is open-source and available under the MIT License.
