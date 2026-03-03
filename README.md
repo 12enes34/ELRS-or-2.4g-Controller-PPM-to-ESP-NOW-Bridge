@@ -28,6 +28,7 @@ A highly optimized, zero-latency RC car control system that reads PPM signals fr
 * **Mode Button:** -> Connect a push button between `D3` (GPIO0) and `GND`[cite: 34].
 
 ---
+![alt text](http://url/to/img.png)
 
 ## 🇹🇷 Türkçe
 
