@@ -28,7 +28,7 @@ A highly optimized, zero-latency RC car control system that reads PPM signals fr
 * **Mode Button:** -> Connect a push button between `D3` (GPIO0) and `GND`[cite: 34].
 
 ---
-![alt text]([http://url/to/img.png](https://github.com/12enes34/ELRS-or-2.4g-Controller-PPM-to-ESP-NOW-Bridge/blob/main/images_All.jpeg))
+![image]([http://url/to/img.png](https://github.com/12enes34/ELRS-or-2.4g-Controller-PPM-to-ESP-NOW-Bridge/blob/main/images_All.jpeg))
 
 ## 🇹🇷 Türkçe
 
